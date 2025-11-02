@@ -79,6 +79,9 @@ Restaurant-Recommendation-System/
     └── Final_Development_Phase.ipynb  # Model training and evaluation notebook
 ```
 
+## **Github Repo Link**
+https://github.com/Abhi-Rajoba/DataScience_Project.git
+
 ## **Technologies Used**
 - **Python 3.10** – Core programming language
 - **Flask** – Lightweight web framework to build the backend API
